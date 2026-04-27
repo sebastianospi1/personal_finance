@@ -1,1 +1,1 @@
-web: gunicorn personal_finance.wsgi
+web: gunicorn finance.wsgi
